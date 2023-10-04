@@ -19,6 +19,10 @@ padding-left:400px;
     text-decoration: none;
     padding-right: 50px;
     color: white;
+    transition: 0.7s;
+}
+.div11 a:hover{
+    color: red;
 }
 .div2{
     background-color: yellow;
